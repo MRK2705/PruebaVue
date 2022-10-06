@@ -6,12 +6,9 @@
       
     />
     <HelloWorld msg=" Welcome to Your Vue.js App" />
-    <img
-          alt="Vue"
-      src="https://image.shutterstock.com/image-vector/vector-creative-illustration-cosmonaut-spacesuit-600w-1680589189.jpg"
-    />
+    <img alt="Vue" src="https://image.shutterstock.com/image-vector/vector-creative-illustration-cosmonaut-spacesuit-600w-1680589189.jpg"/>
     <HelloWorld msg=" Las tecnologías Web son lo Máximo" />
-
+    
   </div>
 </template>
 
