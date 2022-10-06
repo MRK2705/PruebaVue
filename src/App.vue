@@ -5,6 +5,9 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/250px-Adobe_XD_CC_icon.svg.png"
     />
     <HelloWorld msg=" Welcome to Your Vue.js App" />
+
+    <HelloWorld msg=" Las tecnologías Web son lo Máximo" />
+
   </div>
 </template>
 
